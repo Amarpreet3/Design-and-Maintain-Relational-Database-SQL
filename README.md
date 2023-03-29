@@ -1,4 +1,5 @@
-# Design-and-Maintain-Relational-Database-SQL
+# CIND 110 - Data Organization for Data Analysts-  ASSIGNMENT 1 
+Design-and-Maintain-Relational-Database-SQL
 Secured the migration process of the database to new platforms.
 Extracted and analyzed data from existing databases with an outdated logical model stored on a particular server.
 Maintained the local database and ensured its alignment with the information on the main central database.
